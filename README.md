@@ -5,3 +5,9 @@
 
 ## Redis
 Redis 是一個 in-memory 的 key-value database，常被用在需要快取（Cache）一些資料的場合，可以減輕資料庫的負擔，同時也加快響應速度。
+
+
+------------------------
+refer
+- https://medium.com/%E7%A8%8B%E5%BC%8F%E4%B9%BE%E8%B2%A8/python-redis-v-s-mysql-%E6%9F%A5%E8%A9%A2%E5%AF%A6%E4%BD%9C-9f0cc0d9b32b
+- https://github.com/pcchencode/python-redis/blob/master/redis.ipynb

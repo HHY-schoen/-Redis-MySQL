@@ -4,7 +4,10 @@
 - 若 mysql 也找不到密碼，就寫一筆到 mysql 中、並同時也寫一筆到 redis 中，最後回傳密碼。
 
 ## Redis
-Redis 是一個 in-memory 的 key-value database，常被用在需要快取（Cache）一些資料的場合，可以減輕資料庫的負擔，同時也加快響應速度。
+Redis ( Remote Dictionary Server ) 是一個 in-memory 基於內存的 key-value database，常被用在需要資料庫緩存、快取（Cache）資料和消息隊列的場合，可以減輕資料庫的負擔，同時也加快響應速度。
+
+- docker pull redis
+
 
 
 ------------------------
